@@ -411,9 +411,9 @@ Weak areas become priority revision topics.
 # 10-Day Progress Tracker
 
 ## Day 1
-- [ ] 5 Monster SQL Queries
-- [ ] 15 Interview SQL Questions
-- [ ] Excel Practice
+- [X] 5 Monster SQL Queries
+- [X] 15 Interview SQL Questions
+- [X] Excel Practice
 - [ ] 4 × 2 Rotating Questions
 - [ ] Job Applications
 - [ ] Night Revision
