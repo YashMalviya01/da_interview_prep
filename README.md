@@ -467,30 +467,30 @@ Weak areas become priority revision topics.
 - [X] Night Revision
 
 ## Day 8
-- [ ] 5 Monster SQL Queries
-- [ ] 15 Interview SQL Questions
-- [ ] Excel Practice
-- [ ] 4 × 2 Rotating Questions
-- [ ] Job Applications
-- [ ] Night Revision
+- [X] 5 Monster SQL Queries
+- [X] 15 Interview SQL Questions
+- [X] Excel Practice
+- [X] 4 × 2 Rotating Questions
+- [X] Job Applications
+- [X] Night Revision
 
 ## Day 9
-- [ ] 5 Monster SQL Queries
-- [ ] 15 Interview SQL Questions
-- [ ] Excel Practice
-- [ ] 4 × 2 Rotating Questions
-- [ ] Job Applications
-- [ ] Weak-Area Revision
+- [X] 5 Monster SQL Queries
+- [X] 15 Interview SQL Questions
+- [X] Excel Practice
+- [X] 4 × 2 Rotating Questions
+- [X] Job Applications
+- [X] Weak-Area Revision
 
 ## Day 10
-- [ ] 5 Monster SQL Queries
-- [ ] Remaining Interview SQL Questions
-- [ ] Excel Practice
-- [ ] Mixed Interview Questions
-- [ ] Project Deep Dive
-- [ ] HR / Behavioral
-- [ ] Full Interview Simulation
-- [ ] Final Weak-Area Revision
+- [X] 5 Monster SQL Queries
+- [X] Remaining Interview SQL Questions
+- [X] Excel Practice
+- [X] Mixed Interview Questions
+- [X] Project Deep Dive
+- [X] HR / Behavioral
+- [X] Full Interview Simulation
+- [X] Final Weak-Area Revision
 
 ---
 
