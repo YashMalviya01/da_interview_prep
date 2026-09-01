@@ -113,3 +113,34 @@ JSON is a text-based format for semi-structured data. Modern databases provide f
 SELECT JSON_EXTRACT(Profile, '$.city') AS City
 FROM Customers;
 ```
+
+
+### Q171. What is XML in SQL?
+XML is a markup-based format for structured or semi-structured data. Some relational databases provide native XML types and functions for storing and querying XML.
+
+```sql
+SELECT XML_DATA
+FROM CustomerProfiles
+WHERE CustomerID = 101;
+```
+
+### Q172. What is a Dual-Axis Chart in Tableau?
+A dual-axis chart displays two measures in one view using separate axes. It is useful for comparing related metrics with different scales, such as Sales and Profit. It should be used carefully because different scales can mislead viewers.
+
+### Q173. How do you create Calculated Fields in Tableau?
+Create a formula using existing fields, constants, and functions. For example:
+
+```text
+SUM([Sales]) - SUM([Cost])
+```
+
+This can create a Profit metric that does not directly exist in the source data.
+
+### Q174. What are the different types of Joins available in Tableau?
+Common Tableau joins include Inner, Left, Right, and Full Outer joins. The appropriate join depends on which unmatched records need to be retained.
+
+### Q175. How does Tableau handle NULL values?
+First investigate why NULLs exist. Depending on the business meaning, NULLs can be filtered, replaced, grouped as `Unknown`, or handled with a calculated field. The treatment should preserve the meaning of the data.
+
+---
+
