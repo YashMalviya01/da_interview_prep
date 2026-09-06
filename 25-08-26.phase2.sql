@@ -10,7 +10,7 @@ Common operators:
 - `UNION`
 - `UNION ALL`
 - `INTERSECT`
-- `EXCEPT` / `MINUS` depending on the DBMS
+- `EXCEPT` / `MINUS` depending on the DBMS 
 
 ```sql
 SELECT CustomerID FROM Customers_2025
