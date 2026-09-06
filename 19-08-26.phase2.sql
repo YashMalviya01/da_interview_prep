@@ -5,7 +5,7 @@ Salary. */
 SELECT EmpName, Dept, Salary, COUNT(*) AS DuplicateCount
 FROM Employee
 GROUP BY EmpName, Dept, Salary
-HAVING COUNT(*) > 1;
+HAVING COUNT(*) > 1; 
 Pattern: GROUP BY identifies duplicate groups; COUNT(*) counts occurrences; HAVING > 1 keeps duplicates.
 
   
