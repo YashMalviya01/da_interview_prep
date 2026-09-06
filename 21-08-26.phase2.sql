@@ -3,7 +3,7 @@
 /*1. FULL JOIN
 
 Question: Find all employees and departments, including records that don't have a match on either side.*/
-
+ 
 SELECT
     e.EmpName,
     d.DeptName
