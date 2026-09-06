@@ -5,7 +5,7 @@
 
 ---
 
-## 1. What is Normalization?
+## 1. What is Normalization? 
 
 ### Answer
 
