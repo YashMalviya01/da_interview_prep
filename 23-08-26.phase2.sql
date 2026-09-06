@@ -8,7 +8,7 @@ DQL → Data Query Language
 DCL → Data Control Language
 TCL → Transaction Control Language*/
 
--- DDL
+-- DDL 
 CREATE TABLE Employees (...);
 ALTER TABLE Employees ADD Email VARCHAR(100);
 DROP TABLE Employees;
