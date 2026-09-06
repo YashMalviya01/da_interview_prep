@@ -9,7 +9,7 @@ Find employees whose salary is above their department average but below the comp
 WITH employee_metrics AS
 (
     SELECT
-        e.employee_id,
+        e.employee_id, 
         e.employee_name,
         d.department_name,
         e.department_id,
